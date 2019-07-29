@@ -1,0 +1,17 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	color:green;
+	
+}
+
+h6,
+h5,
+h4,
+h3,
+h2,
+h1  {
+     font-family: 'Rubic Mono one',
+	 sans-serif;
+	 font-weight:700;
+}
